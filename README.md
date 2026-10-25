@@ -1,16 +1,30 @@
-## Hi there 👋
+# Christophe Prince
 
-<!--
-**christopheprince/christopheprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Securing railways against cyber threats | OT/ICS Pentest Lead @ Alstom | Cyberlab & Tool builder | IEC 62443-4-2 | CRA**
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+More than 19 years working in railway signaling and mainline systems.
+
+During the last 6 years, I've focused on OT/ICS cybersecurity, building expertise in industrial networks, security assessments, cyberlab development and critical infrastructure protection.
+
+This background allows me to bridge engineering, operations and cybersecurity in complex railway environments.
+
+I'm now looking to build on this experience in senior and lead OT penetration testing roles.
+
+My job is to find the weaknesses before the wrong people do
+
+---
+
+## Projects
+
+> Work in progress — tools and research will be published here progressively.
+
+---
+
+## Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopheprince)
+- 📍 Northern France
+
