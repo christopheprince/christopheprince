@@ -19,7 +19,10 @@ My job is to find the weaknesses before the wrong people do
 
 ## Projects
 
-> Work in progress — tools and research will be published here progressively.
+### [OT-Dashboard](https://github.com/christopheprince/OT-Dashboard)
+Standalone browser-based OT/ICS network traffic analyser — no install, no backend, drop a pcap and go.
+
+others projects will be shared soon
 
 ---
 
